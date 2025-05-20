@@ -1,5 +1,5 @@
 basic:
-    name: 'Russel, Larson and Barrows'
+    name: 'Simonis, Runolfsson and Corkery'
     environments:
         production: 'https://GOOGLE.com'
         staging: ''
